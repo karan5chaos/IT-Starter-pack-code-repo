@@ -1,25 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Diagnostics;
-using System.Drawing;
-using System.IO;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
-using System.Net.Mime;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using static System.Windows.Forms.LinkLabel;
-using System.Xml.Linq;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
-using Application = System.Windows.Forms.Application;
-using FileMode = System.IO.FileMode;
+﻿using IT_starter_pack;
 using IT_Starter_pack.Properties;
 using LibGit2Sharp;
-using IT_starter_pack;
+using System;
+using System.ComponentModel;
+using System.Diagnostics;
+using System.IO;
+using System.Net;
+using System.Windows.Forms;
+using Application = System.Windows.Forms.Application;
+using FileMode = System.IO.FileMode;
 
 namespace IT_Starter_pack
 {
@@ -74,7 +63,6 @@ namespace IT_Starter_pack
         private void Form1_Load(object sender, EventArgs e)
         {
             comboBox1.Items.Clear();
-            //backgroundWorker1.RunWorkerAsync();
             update_repos();
         }
 
@@ -128,7 +116,7 @@ namespace IT_Starter_pack
 
                 }
             }
-            catch { }   
+            catch { }
         }
 
         private void Wc_DownloadProgressChanged1(object sender, DownloadProgressChangedEventArgs e)
@@ -159,7 +147,7 @@ namespace IT_Starter_pack
             progressBar1.Value = e.ProgressPercentage;
         }
 
-        string dpath = Application.StartupPath+"/apps";
+        string dpath = Application.StartupPath + "/apps";
 
         void Download_installAsync(string link, string fname)
         {
@@ -199,7 +187,7 @@ namespace IT_Starter_pack
 
         private string writeresource(string tempExeName, byte[] resource)
         {
-            
+
             try
             {
                 if (!Directory.Exists(dpath))
@@ -252,25 +240,11 @@ namespace IT_Starter_pack
             //backgroundWorker1.RunWorkerAsync();
         }
 
-        private void backgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
-        {
-
-            //toolStripStatusLabel1.Text = "Repos updated.";
-            
-        }
-
-        private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
-        {
-
-           // update_repos();
-            //File.Delete(dpath);
-
-        }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             DeleteReadOnlyDirectory(dpath);
-           // Directory.Delete(dpath, true);
+            // Directory.Delete(dpath, true);
         }
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
