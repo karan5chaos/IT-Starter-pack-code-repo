@@ -168,6 +168,79 @@
         RK5CYII=
 </value>
   </data>
+  <data name="checkForUpdatesToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29m
+        dHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKwSURBVDhPhZPvS1NhFMdvRUYJ9ao3hRmV/QHWG0EZ
+        266/VjAqKQJpSGUmiWSGiWRt80flrzDENHVlKLKNINfcnVdrlk4G6iq1UinLcqEkaWRovvh2nnvv1HxR
+        Xzhcnuec83nOOc9zOQDc/8QXtiPxhgi1SRD5QvcBZVsWA8QViUt8gZsFQGUUpG8sJSkhnMbsRtvwNKo6
+        x5B02wNaWxWXDCBFplt8c3Z/AK2DU3hCwWqzsAxg8KS6flxzjsJJvjO1XmgK3FWSM9iCvqwTac2vEFXS
+        jevOEakKyUGKK2pHbNlz8Hd8ON7wEtaBr9CXdILaCZcARDMWOd4gpXkI2kof6nu/QEunKvlcePQxfUz2
+        g6a44g7o7vYjw/4O5W46xOiyygCTa6Gy6xN0tX4klHZBa3aOrp4BaRNZWHSWpelQZS/0DYOoevFZrlIC
+        UL9mcQJHLcNIKHmGrTsjIqnsBTl3RaHbw3YnlnpwomkExZ5J0MEyQEuAS45xnGoZg5Ztctz6kNBtB+U0
+        WfHF4gb6rNOY2nDaPo4cgdoMAngCGGzjyHZNwFDjZcPZyIKlTEVU0TxVutlQ7UWuGEC6YxK8OQgoEJBi
+        e49zjyeQYxui3lzlSt6y2FCTq3t+m1rfIrU1gLOPPrIKFiWAKrfFffL+a6Q5Aqjtm8GRCnosJqGCBrlX
+        Tuc4gsI+Mg+LfxYXhGkkNw4hKvNejQTYxxti2F1nCFO46plB3cB3XLQP022svAW1sQ353T9g6p5FJgHi
+        b3Yw3w4JQAqJufzQepiuMKvjG4w9c6gfXJCnrEhL/eb7FpHn/YXSvnmcb/TPSQ4FwLRLdaVF1N16ilT7
+        B+T1/PyrgthCN61d0FAlDMyeN1W9tBrAtGe/LjVZlWfzscGyJGWfif2Fay1yLYBpC1kEWTDoH+K4PxJH
+        yEw1ZC2AAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>132, 17</value>
+  </metadata>
+  <metadata name="Column1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column2.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column3.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column2.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column3.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Access the power of both Windows and Linux at the same time on a Windows machine. The Windows Subsystem for Linux (WSL) lets users install a Linux distribution (such as Ubuntu, OpenSUSE, Kali, Debian, Arch Linux, etc) and use Linux applications, utilities, and Bash command-line tools directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.</value>
+  </data>
+  <metadata name="backgroundWorker1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>247, 17</value>
+  </metadata>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>409, 17</value>
+  </metadata>
+  <metadata name="backgroundWorker2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>497, 17</value>
+  </metadata>
+  <metadata name="wslinstallworker.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>14, 34</value>
+  </metadata>
+  <data name="button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29m
+        dHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAMKSURBVDhPbZJrTFNnGMfPBz/5cfvgIEyGcwnzg4IV
+        48Jl6iC4JeAFMGZ+cWoWLmUwxUtlwnDeghobhNLTFltRqIAi41JWnA2l5TZBodiNhCEyTL3FkJgZQoz+
+        fE9tuzj9J0+e933P//87ed5zpHdU2LlQym+6IeVaCZVa7AttCwOOkIDASqhW/fHiY+qV9VLOr1T1TdH3
+        YJ72u8/pFb3CPYWU3UKZenVFrToiBPIDTPlLd7ccjRtxnonjs6IzGId8FDl8JNaOk905zReWcR7NvUJ/
+        08ene0/RfXoVLb/EeUTuez/AoF7ybLQxE695LdLe6zycg2Hfv6gMt7BPzrJcN4xr+hljT18g7bmOtyaJ
+        kcub0eVEdQVHiGkuVb2ctJcTb/BwYewpDd7HLPj5Bj3Ts8Qbh/jBNoFFnK+RR5noOEFTiWpW5Jb6AXJO
+        xLp7I+08um3mUI2eE+09JJo9qG1/s63xDtoBH/t//4fjbU6Kz8s8GbUwPdqJPjtihR9wrXwjbjkDV0UC
+        3ivfMePQYLpwlJkpL1KhnUsOJy67jpnuEv66tgt3VRL9xixaz2aJvAAc2R5htB5YRtsRFd3aJPrkZMYa
+        tjLe+iPW/EVM2H/iTtO39BuS6Tm3VvhWofhFzhS8g3BdTiQ23Q6M6iiaS2PoM27Geng1TstOGssSuHlp
+        O1dLYzHlL6Gjcoe4wEglGR4ESIa8SCbd1XSeTKBOswI5L4rK3Gie9GqoyIvGVPA5Fw8up6M8kalePYZc
+        P+C/H0nO/YQ/bcW4qlNw6VPp0q6nTZgfOA/SdioJu/YrXPLXYrxUxsVI8v8BBvFGz9XdDJxP81d/TRpu
+        wwbuO/bTa/yGQXM6g5Y35WneheJXciHAvi3hpdbimHlHZTK3LmcxVLeFwdqN4ovs44+Lmxiuz+C2uFhH
+        VQqKT/EruRBA6ENRsQXpYRrznug5u/ZLhhsyxQga0bP4TbsOizgvSP9Io/gC/rcAQX0gKrYwPeyQLjty
+        3lmdhtKVvXIeeB7S+wBBKcaVolSB/lYwKEB6DeWfDTke9zGEAAAAAElFTkSuQmCC
+</value>
+  </data>
   <data name="microsoftOfficeActivationToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29m
@@ -213,31 +286,6 @@
         sy/gP5oIOujv/t2IfgGI0U2f6HdI2QAAAABJRU5ErkJggg==
 </value>
   </data>
-  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>132, 17</value>
-  </metadata>
-  <data name="button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29m
-        dHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAMKSURBVDhPbZJrTFNnGMfPBz/5cfvgIEyGcwnzg4IV
-        48Jl6iC4JeAFMGZ+cWoWLmUwxUtlwnDeghobhNLTFltRqIAi41JWnA2l5TZBodiNhCEyTL3FkJgZQoz+
-        fE9tuzj9J0+e933P//87ed5zpHdU2LlQym+6IeVaCZVa7AttCwOOkIDASqhW/fHiY+qV9VLOr1T1TdH3
-        YJ72u8/pFb3CPYWU3UKZenVFrToiBPIDTPlLd7ccjRtxnonjs6IzGId8FDl8JNaOk905zReWcR7NvUJ/
-        08ene0/RfXoVLb/EeUTuez/AoF7ybLQxE695LdLe6zycg2Hfv6gMt7BPzrJcN4xr+hljT18g7bmOtyaJ
-        kcub0eVEdQVHiGkuVb2ctJcTb/BwYewpDd7HLPj5Bj3Ts8Qbh/jBNoFFnK+RR5noOEFTiWpW5Jb6AXJO
-        xLp7I+08um3mUI2eE+09JJo9qG1/s63xDtoBH/t//4fjbU6Kz8s8GbUwPdqJPjtihR9wrXwjbjkDV0UC
-        3ivfMePQYLpwlJkpL1KhnUsOJy67jpnuEv66tgt3VRL9xixaz2aJvAAc2R5htB5YRtsRFd3aJPrkZMYa
-        tjLe+iPW/EVM2H/iTtO39BuS6Tm3VvhWofhFzhS8g3BdTiQ23Q6M6iiaS2PoM27Geng1TstOGssSuHlp
-        O1dLYzHlL6Gjcoe4wEglGR4ESIa8SCbd1XSeTKBOswI5L4rK3Gie9GqoyIvGVPA5Fw8up6M8kalePYZc
-        P+C/H0nO/YQ/bcW4qlNw6VPp0q6nTZgfOA/SdioJu/YrXPLXYrxUxsVI8v8BBvFGz9XdDJxP81d/TRpu
-        wwbuO/bTa/yGQXM6g5Y35WneheJXciHAvi3hpdbimHlHZTK3LmcxVLeFwdqN4ovs44+Lmxiuz+C2uFhH
-        VQqKT/EruRBA6ENRsQXpYRrznug5u/ZLhhsyxQga0bP4TbsOizgvSP9Io/gC/rcAQX0gKrYwPeyQLjty
-        3lmdhtKVvXIeeB7S+wBBKcaVolSB/lYwKEB6DeWfDTke9zGEAAAAAElFTkSuQmCC
-</value>
-  </data>
-  <metadata name="backgroundWorker1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>247, 17</value>
-  </metadata>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA
